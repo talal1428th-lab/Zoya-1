@@ -21,7 +21,7 @@ from google.genai import types
 # CONFIG
 # =========================================================
 
-BOT_TOKEN = "8769107448:AAGeKnnBXQ17OotwxF74BEw-RoyWA5Rfn5A"
+BOT_TOKEN = "8751509620:AAHvRDC6TLFh6c_xWiNufCvZbtKVx1XhzVI"
 GEMINI_API_KEY = "AQ.Ab8RN6JihomLRRNOKTuZ9vmnhkpAB0P9pIGAz-MKqWbgAIftRA"
 
 # Current Gemini model name can be changed here if needed.
