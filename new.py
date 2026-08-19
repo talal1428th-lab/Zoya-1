@@ -22,7 +22,7 @@ from google.genai import types
 # =========================================================
 
 BOT_TOKEN = "8769107448:AAGeKnnBXQ17OotwxF74BEw-RoyWA5Rfn5A"
-GEMINI_API_KEY = "AQ.Ab8RN6JleRj0ro710tioFrzCtMPh6odoVpyjyHtdkHrVxerZ8g"
+GEMINI_API_KEY = "AQ.Ab8RN6JihomLRRNOKTuZ9vmnhkpAB0P9pIGAz-MKqWbgAIftRA"
 
 # Current Gemini model name can be changed here if needed.
 MODEL_NAME = "gemini-2.5-flash"
